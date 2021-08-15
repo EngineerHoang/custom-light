@@ -112,7 +112,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#a31515"
 			}
 		},
 		{
@@ -324,14 +324,14 @@
 		{
 			"scope": [
 				"support.type.vendored.property-name",
-				"support.type.property-name",
+				"support.type.property-name",``
 				"variable.css",
 				"variable.scss",
 				"variable.other.less",
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#a31515"
 			}
 		},
 		{
